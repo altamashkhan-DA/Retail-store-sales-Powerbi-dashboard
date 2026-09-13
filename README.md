@@ -123,9 +123,9 @@ The filtered views demonstrate how the dashboard can be used to investigate spec
 
 ## Author
 
-**[Your Name]**
+** Altamash Khan **
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Data Visualization
+Data Analyst | Power BI | SQL | Excel | Data Visualization
 
 ## Feedback
 
